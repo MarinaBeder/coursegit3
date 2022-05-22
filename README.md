@@ -68,7 +68,7 @@ as seen on the right of this picture, this config contains 2 processes and cache
 
  
 
-<img src="H:\Colleage\3\Second Term\Computer Architecture\project\CacheCoherence_CA\assets\image-20220522082637698.png" alt="image-20220522082637698" style="zoom:80%;" /> 
+<img src="https://github.com/MarinaBeder/coursegit3/blob/main/Capture.PNG" alt="image-20220522082637698" style="zoom:80%;" /> 
 
  
 
