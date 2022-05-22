@@ -27,6 +27,8 @@ To simulate the output we are using SMPCache simulator which comes with a pre-co
  
 
 <img src="H:\Colleage\3\Second Term\Computer Architecture\project\CacheCoherence_CA\assets\MSI.png" alt="alt text" style="zoom:80%;" /> 
+Accesses number: 2, 3, 4, 5
+
 
  
 
