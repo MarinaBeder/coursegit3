@@ -132,4 +132,12 @@ SHARED ---> SHARED
 
 \``` 
 
- 
+ ***\*State Transition In Cache:\**** 
+
+ <img src="https://github.com/MarinaBeder/cooursegit3/blob/main/Access_Number 6.PNG" style="zoom:80%;" /> 
+
+\``` 
+
+INVAILD ---> MODIFIED
+
+\``` 
